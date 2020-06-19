@@ -28,8 +28,7 @@ export default class About extends Component {
                       </p>
                       <p>
                         Jeg er oppnåde nylig en bachelor grad innen Intelligente
-                        Systemer og ser etter en jobb som innebærer kreativt
-                        eller kode relatert. Jeg er mest glad i frontend koding
+                        Systemer og ser etter en jobb som innebærer frontend Webutvikling. Jeg er mest glad i frontend koding
                         med React, HTML/CSS og javascript.
                       </p>
                       <p>
