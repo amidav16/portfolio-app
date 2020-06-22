@@ -19,7 +19,7 @@ export default class About extends Component {
                       <p>
                         Jeg er født og oppvokst i Norge, moren min er fra
                         Filipinene og faren min er fra Iran. Så jeg er en litt
-                        rar blandig haha! Jeg ser meg selv som en nerd som er
+                        rar blanding haha! Jeg ser meg selv som en nerd som er
                         besatt av kreativt arbeid, helt siden jeg var liten
                         benyttet jeg mye av fritiden foran skjermen. Som for
                         eksempel å spille nintendo spill, eller å lage
@@ -27,7 +27,7 @@ export default class About extends Component {
                         10 år gammel!
                       </p>
                       <p>
-                        Jeg er oppnåde nylig en bachelor grad innen Intelligente
+                        Jeg er oppnådde nylig en bachelor grad innen Intelligente
                         Systemer og ser etter en jobb som innebærer frontend Webutvikling. Jeg er mest glad i frontend koding
                         med React, HTML/CSS og javascript.
                       </p>
